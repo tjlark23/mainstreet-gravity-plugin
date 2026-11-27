@@ -1,0 +1,17 @@
+{
+  "name": "mainstreet-gravity",
+  "owner": {
+    "name": "mainstreet gravity",
+    "url": "https://mainstreetgravity.com"
+  },
+  "metadata": {
+    "description": "The official mainstreet gravity plugin for Claude: run your local newsletter, website and directory from a conversation."
+  },
+  "plugins": [
+    {
+      "name": "mainstreet-gravity",
+      "source": "./",
+      "description": "Read your local stories, events and businesses, build newsletter drafts and file articles for review in mainstreet gravity."
+    }
+  ]
+}

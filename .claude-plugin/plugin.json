@@ -1,0 +1,16 @@
+{
+  "name": "mainstreet-gravity",
+  "displayName": "mainstreet gravity",
+  "version": "1.0.0",
+  "description": "Run your local media business from Claude: read your stories, events, businesses and jobs, build newsletter drafts and file articles for review in mainstreet gravity. A person approves everything that goes out.",
+  "author": { "name": "mainstreet gravity", "url": "https://mainstreetgravity.com" },
+  "homepage": "https://mainstreetgravity.com/apis-and-mcp",
+  "repository": "https://github.com/tjlark23/mainstreet-gravity-plugin",
+  "license": "MIT",
+  "keywords": ["local media", "newsletter", "local news", "events", "publishing"],
+  "icon": "./logo.png",
+  "documentationUrl": "https://mainstreetgravity.com/apis-and-mcp",
+  "supportUrl": "https://mainstreetgravity.com/contact",
+  "privacyPolicyUrl": "https://mainstreetgravity.com/privacy",
+  "termsOfServiceUrl": "https://mainstreetgravity.com/terms"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mainstreet-gravity": {
+      "type": "http",
+      "url": "https://app.mainstreetgravity.com/api/mcp"
+    }
+  }
+}
