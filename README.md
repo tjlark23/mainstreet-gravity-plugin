@@ -19,7 +19,7 @@ A person approves everything that goes out. No tool sends or schedules a newslet
    ```
 
 2. When Claude asks you to connect mainstreet gravity, sign in with your mainstreet gravity login.
-3. Pick the brand, tick what Claude may do and press Allow.
+3. Pick your workspace, tick what Claude may do and press Allow. One connection covers every brand and newsletter in it.
 
 You can review or revoke the connection any time in mainstreet gravity under Settings, API keys.
 
